@@ -1,131 +1,121 @@
 <div align="center">
 
-# ⚡ Surya Varathan
+<!-- 🌈 HEADER BANNER -->
 
-### “I don’t just write code — I build systems that think, scale, and solve.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Surya%20Varathan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Problem+Solver;System+Thinker;Always+Shipping+Code"/>
+### 🚀 Software Engineer • Full-Stack Developer • Problem Solver • Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Full-Stack+Web+Developer;1000%2B+Problems+Solved;Always+Learning+New+Tech;Clean+Code+%7C+Clean+Architecture"/>
+
+---
 
 </div>
 
 ---
 
-## 🧭 Who I Am
+## 🧭 About Me
 
-I am a software engineer focused on building **clean systems, scalable applications, and intelligent solutions**.
+I am a software engineer focused on building **scalable systems, intelligent applications, and production-ready software**.
 
-I enjoy turning complex problems into simple, working products.
-
----
-
-## ⚔️ What I Do
-
-* 🧠 Build full-stack applications that scale
-* ⚙️ Design backend systems and APIs
-* 🤖 Explore AI-powered tools and automation
-* ☁️ Learn cloud and distributed systems
-* 🧩 Solve algorithmic problems daily
+I enjoy turning complex ideas into clean, working products.
 
 ---
 
-## 🧠 The Problem Solving Journey
+## ⚔️ Core Strengths
 
-I believe strong engineering starts with strong thinking.
+* 🧠 System Design & Architecture
+* ⚙️ Backend Development & APIs
+* 🌐 Full-Stack Web Applications
+* 🤖 AI & Automation Systems
+* 🧩 Advanced Problem Solving
 
-* **1,000+ problems solved across LeetCode and coding platforms**
-* Deep focus on:
+---
+
+## 🧠 Competitive Programming
+
+### 🔥 1000+ Problems Solved
+
+I actively practice algorithms and data structures to sharpen thinking and improve engineering performance.
+
+* 1,000+ problems solved across **LeetCode & coding platforms**
+* Strong in:
 
   * Dynamic Programming
-  * Graph Systems
-  * Tree Structures
-  * Greedy Logic
-  * Backtracking
+  * Graph Algorithms
+  * Trees & Recursion
+  * Greedy Techniques
   * Binary Search Patterns
-* Constantly improving speed, clarity, and optimization thinking
+  * Backtracking
+* Focus: **optimal + scalable solutions**
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
 
 ---
 
 ## 🧱 What I Build
 
-### 🌐 Scalable Web Systems
+### 🌐 Scalable Web Apps
 
-Full-stack apps with clean architecture and strong backend logic.
+Modern full-stack applications with strong backend architecture.
 
-### 🤖 Intelligent Tools
+### 🤖 Intelligent Systems
 
-Automation systems and AI-powered workflows.
+AI-powered tools, automation workflows, and smart applications.
 
-### ⚙️ Developer Utilities
+### ⚙️ Developer Tools
 
-Tools that improve productivity and engineering efficiency.
-
----
-
-## 🛠 Tech Universe
-
-**Languages**
-Java • Python • JavaScript • TypeScript • SQL
-
-**Frontend**
-React • Next.js • Tailwind CSS
-
-**Backend**
-Node.js • Express • REST APIs
-
-**Database**
-MongoDB • MySQL • PostgreSQL
-
-**Tools**
-Git • Docker • Postman • VS Code
+Utilities and systems that improve productivity and engineering flow.
 
 ---
 
-## 📊 GitHub Reality
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suryavarathan&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github" />
 
 </p>
 
 ---
 
-## 🚀 Philosophy
+## 📊 GitHub Analytics
 
-> “Code is not just instructions — it is design, thinking, and execution combined.”
+<p align="center">
 
-I focus on:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-* Clean architecture over shortcuts
-* Long-term scalability over quick hacks
-* Deep understanding over surface learning
-* Consistency over intensity
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryavarathan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryavarathan&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-## 🌍 Vision
+## 🚀 Vision
 
-To become a builder who creates systems that matter — products that are not just functional, but meaningful and scalable.
+> “I build software that is not only functional — but scalable, intelligent, and impactful.”
 
 ---
 
-## 🤝 Let’s Connect
+## 🌍 Connect With Me
 
-* GitHub → github.com/suryavarathan
+* GitHub → https://github.com/suryavarathan
 * LinkedIn → YOUR LINKEDIN
 * Email → YOUR EMAIL
 
@@ -133,6 +123,10 @@ To become a builder who creates systems that matter — products that are not ju
 
 <div align="center">
 
-### ⚡ Built with focus. Sharpened by practice. Driven by curiosity.
+### ⚡ Built with discipline. Driven by curiosity. Focused on impact.
 
 </div>
+
+<!-- 🌈 FOOTER BANNER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
