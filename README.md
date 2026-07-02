@@ -1,32 +1,30 @@
 <div align="center">
 
-<!-- 🌊 HEADER ANIMATION -->
+<!-- 🌊 HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Surya%20Varathan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=240&section=header&text=Surya%20Varathan&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
----
+### 🚀 Software Engineer • Full-Stack Developer • System Thinker
 
-### 🚀 Software Engineer • Full-Stack Developer • Problem Solver
+<!-- ✍️ CLEAN TYPING ANIMATION -->
 
-<!-- ✍️ TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Full-Stack+Web+Developer;1000%2B+Problems+Solved;Clean+Code+%7C+System+Design;Always+Learning+and+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Full-Stack+Developer+%7C+Backend+Engineer;1000%2B+Problems+Solved;Clean+Architecture+%7C+Performance+Focused;Always+Learning+%26+Shipping+Code"/>
 
 ---
 
-<!-- 🔗 SOCIAL BADGES -->
+<!-- 🔗 LINKS -->
 
 <p>
 <a href="https://github.com/suryavarathan">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/mwlite/profile/in/surya-v-47b61a383">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/710723243115/">
-<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FF6B00?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
 
@@ -34,32 +32,51 @@
 
 ---
 
-# 🧭 ABOUT ME (ANIMATED FEEL SECTION)
+# 🧭 PROFILE SUMMARY
 
-> 💡 I build systems that are scalable, efficient, and production-ready.
+Focused software engineer building **scalable applications, clean architectures, and real-world systems**.
 
-* ⚙️ Backend & System Design focus
-* 🌐 Full-Stack Web Applications
-* 🤖 AI & Automation exploration
-* 🧠 Strong problem-solving mindset
+I specialize in turning complex problems into **simple, maintainable solutions**.
 
 ---
 
-# 🧠 LEETCODE MASTERY (ANIMATED HIGHLIGHT)
+# ⚔️ CORE AREAS
+
+## 🧠 System Engineering
+
+* Scalable backend architecture
+* API design & optimization
+* Performance tuning
+
+## 🌐 Full-Stack Development
+
+* React / Next.js applications
+* Node.js backend systems
+* REST API design
+
+## 🤖 Problem Solving
+
+* Algorithms & Data Structures
+* Optimization thinking
+* Real-world logic building
+
+---
+
+# 🧠 LEETCODE ACHIEVEMENT (HIGHLIGHT SECTION)
 
 ## 🔥 1000+ Problems Solved
 
-Consistent algorithmic problem solver focused on optimization and clarity.
+Consistent problem solver focused on **efficiency and clean solutions**.
 
 * 1000+ problems solved across LeetCode
-* Strong in:
+* Strong understanding of:
 
   * Dynamic Programming
-  * Graphs
-  * Trees
+  * Graphs & Trees
   * Greedy Algorithms
-  * Backtracking
   * Binary Search
+  * Backtracking
+  * Sliding Window
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/710723243115?theme=dark&font=Fira%20Code&ext=heatmap"/>
@@ -67,23 +84,23 @@ Consistent algorithmic problem solver focused on optimization and clarity.
 
 ---
 
-# 🧱 WHAT I BUILD
+# 🧱 BUILD FOCUS
 
-### 🌐 Scalable Web Apps
+### 🌐 Scalable Systems
 
-Production-ready full-stack systems.
+Production-ready full-stack applications.
 
-### 🤖 Intelligent Systems
+### 🤖 Intelligent Tools
 
-AI-powered tools and automation workflows.
+Automation and AI-assisted applications.
 
-### ⚙️ Developer Tools
+### ⚙️ Developer Utilities
 
-Utilities for productivity and engineering efficiency.
+Productivity-focused engineering tools.
 
 ---
 
-# 🛠 TECH STACK (ICON ANIMATION STYLE)
+# 🛠 TECH STACK (CLEAN VISUAL GRID)
 
 <p align="center">
 
@@ -93,27 +110,27 @@ Utilities for productivity and engineering efficiency.
 
 ---
 
-# 📊 GITHUB ANALYTICS (DYNAMIC CARDS)
+# 📊 ENGINEERING METRICS
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 ACTIVITY GRAPH (LIVE LOOK)
+## 🔥 CONTRIBUTION ACTIVITY
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryavarathan&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryavarathan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE ANIMATION
+## 🐍 CONTRIBUTION ANIMATION
 
 <p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -123,16 +140,16 @@ Utilities for productivity and engineering efficiency.
 
 # 🚀 ENGINEERING PHILOSOPHY
 
-> “Simplicity scales. Complexity fails.”
+> “Good engineering is invisible — it just works.”
 
-* Build systems, not features
-* Optimize for clarity
-* Think long-term architecture
-* Stay consistent, keep improving
+* Simplicity > Complexity
+* Systems > Features
+* Consistency > Intensity
+* Clean code > Clever code
 
 ---
 
-# 🌍 CONNECT WITH ME
+# 🌍 CONNECT
 
 * 💻 GitHub → https://github.com/suryavarathan
 * 💼 LinkedIn → https://www.linkedin.com/mwlite/profile/in/surya-v-47b61a383
@@ -142,10 +159,11 @@ Utilities for productivity and engineering efficiency.
 
 <div align="center">
 
-### ⚡ Built with discipline, consistency, and passion for engineering.
+### ⚡ Built with discipline, clarity, and long-term thinking.
 
 </div>
 
-<!-- 🌊 FOOTER ANIMATION -->
+<!-- 🌊 CLEAN FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=130&section=footer"/>
+
