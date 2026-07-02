@@ -1,176 +1,138 @@
 <div align="center">
 
-# Surya Varathan
+# ⚡ Surya Varathan
 
-### Founder Mindset • Software Engineer • Problem Solver • Builder of Scalable Systems
+### “I don’t just write code — I build systems that think, scale, and solve.”
 
-I design and build software systems that combine clean architecture, strong engineering principles, and practical real-world impact. My focus is on **full-stack development, system design, AI-powered applications, and problem-solving at scale**.
+<br/>
 
----
-
-<p>
-<a href="https://github.com/suryavarathan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Problem+Solver;System+Thinker;Always+Shipping+Code"/>
 
 </div>
 
 ---
 
-# Vision
+## 🧭 Who I Am
 
-To build scalable, intelligent, and impactful software systems that solve real-world problems and improve developer and user experiences.
+I am a software engineer focused on building **clean systems, scalable applications, and intelligent solutions**.
 
----
-
-# Areas of Expertise
-
-### 🧠 Software Engineering
-
-* System design and scalable architectures
-* REST APIs and backend development
-* Microservices and modular systems
-
-### 🌐 Full-Stack Development
-
-* React, Next.js frontend development
-* Node.js backend systems
-* Responsive and performance-focused UI/UX
-
-### 🤖 AI & Automation
-
-* AI-powered applications
-* Workflow automation systems
-* API integration and intelligent agents
-
-### ☁️ Cloud & DevOps (Learning & Growing)
-
-* Docker containerization
-* CI/CD pipelines
-* Cloud deployment practices
+I enjoy turning complex problems into simple, working products.
 
 ---
 
-# 🧠 Competitive Programming
+## ⚔️ What I Do
 
-Strong foundation in algorithms and data structures with consistent problem-solving practice.
+* 🧠 Build full-stack applications that scale
+* ⚙️ Design backend systems and APIs
+* 🤖 Explore AI-powered tools and automation
+* ☁️ Learn cloud and distributed systems
+* 🧩 Solve algorithmic problems daily
 
-* **1,000+ problems solved on LeetCode**
-* Advanced understanding of:
+---
+
+## 🧠 The Problem Solving Journey
+
+I believe strong engineering starts with strong thinking.
+
+* **1,000+ problems solved across LeetCode and coding platforms**
+* Deep focus on:
 
   * Dynamic Programming
-  * Graph Theory
-  * Trees & Binary Trees
-  * Greedy Algorithms
+  * Graph Systems
+  * Tree Structures
+  * Greedy Logic
   * Backtracking
-  * Binary Search & Sliding Window
-* Focus on writing optimized and scalable solutions
+  * Binary Search Patterns
+* Constantly improving speed, clarity, and optimization thinking
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+## 🧱 What I Build
 
-### Languages
+### 🌐 Scalable Web Systems
 
-Java • Python • JavaScript • TypeScript • C++ • SQL
+Full-stack apps with clean architecture and strong backend logic.
 
-### Frontend
+### 🤖 Intelligent Tools
 
-React • Next.js • HTML • CSS • Tailwind CSS
+Automation systems and AI-powered workflows.
 
-### Backend
+### ⚙️ Developer Utilities
 
-Node.js • Express.js • REST APIs
-
-### Databases
-
-MySQL • MongoDB • PostgreSQL
-
-### Tools
-
-Git • GitHub • Docker • Postman • VS Code
+Tools that improve productivity and engineering efficiency.
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Universe
 
-### Intelligent Task Management System
+**Languages**
+Java • Python • JavaScript • TypeScript • SQL
 
-A scalable productivity platform with authentication, task automation, and analytics.
+**Frontend**
+React • Next.js • Tailwind CSS
+
+**Backend**
+Node.js • Express • REST APIs
+
+**Database**
+MongoDB • MySQL • PostgreSQL
+
+**Tools**
+Git • Docker • Postman • VS Code
 
 ---
 
-### AI-Powered Assistant
-
-An intelligent assistant integrating LLM APIs for automation and productivity workflows.
-
----
-
-### Full-Stack Web Platform
-
-Modern web application with authentication, database integration, and responsive UI.
-
----
-
-# 📈 GitHub Analytics
+## 📊 GitHub Reality
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=suryavarathan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavarathan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=suryavarathan&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryavarathan&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suryavarathan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Principles I Follow
+## 🚀 Philosophy
 
-* Simplicity is better than complexity
-* Scalable systems beat quick hacks
-* Clean code is long-term speed
-* Consistency builds mastery
-* Always keep learning and building
+> “Code is not just instructions — it is design, thinking, and execution combined.”
+
+I focus on:
+
+* Clean architecture over shortcuts
+* Long-term scalability over quick hacks
+* Deep understanding over surface learning
+* Consistency over intensity
 
 ---
 
-# 🌍 Connect
+## 🌍 Vision
 
-* GitHub: https://github.com/suryavarathan
-* LinkedIn: YOUR LINKEDIN
-* Email: YOUR EMAIL
+To become a builder who creates systems that matter — products that are not just functional, but meaningful and scalable.
+
+---
+
+## 🤝 Let’s Connect
+
+* GitHub → github.com/suryavarathan
+* LinkedIn → YOUR LINKEDIN
+* Email → YOUR EMAIL
 
 ---
 
 <div align="center">
 
-### ⭐ Building systems that matter. Learning every day. Shipping continuously.
+### ⚡ Built with focus. Sharpened by practice. Driven by curiosity.
 
 </div>
-
-
-
-
