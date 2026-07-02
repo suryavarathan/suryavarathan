@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- 🌊 HERO ANIMATED HEADER -->
+<!-- 🌊 HEADER ANIMATION -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Surya%20Varathan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-### 🚀 Software Engineer • Full-Stack Developer • System Builder • Problem Solver
-
-<!-- ✍️ ANIMATED TYPING -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Full-Stack+Web+Developer;1000%2B+Problems+Solved;Clean+Architecture+%7C+Performance+Focused;Always+Learning+and+Building"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Surya%20Varathan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
-<!-- 🔗 SOCIAL LINKS -->
+### 🚀 Software Engineer • Full-Stack Developer • Problem Solver
+
+<!-- ✍️ TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Full-Stack+Web+Developer;1000%2B+Problems+Solved;Clean+Code+%7C+System+Design;Always+Learning+and+Building"/>
+
+---
+
+<!-- 🔗 SOCIAL BADGES -->
 
 <p>
 <a href="https://github.com/suryavarathan">
@@ -24,7 +26,7 @@
 </a>
 
 <a href="https://leetcode.com/u/710723243115/">
-<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
 
@@ -32,51 +34,32 @@
 
 ---
 
-# 🧭 ABOUT ME
+# 🧭 ABOUT ME (ANIMATED FEEL SECTION)
 
-I am a software engineer focused on building **scalable systems, modern web applications, and high-performance backend architectures**.
+> 💡 I build systems that are scalable, efficient, and production-ready.
 
-I enjoy transforming complex problems into clean, efficient, and production-ready software.
-
----
-
-# ⚔️ CORE EXPERTISE
-
-## 🧠 System Design
-
-* Scalable backend architecture
-* API design & optimization
-* Distributed system thinking
-
-## 🌐 Full-Stack Engineering
-
-* React / Next.js UI development
-* Node.js backend systems
-* REST API integrations
-
-## 🤖 Problem Solving
-
-* Algorithms & Data Structures
-* Optimization techniques
-* Competitive programming mindset
+* ⚙️ Backend & System Design focus
+* 🌐 Full-Stack Web Applications
+* 🤖 AI & Automation exploration
+* 🧠 Strong problem-solving mindset
 
 ---
 
-# 🧠 LEETCODE MASTERY
+# 🧠 LEETCODE MASTERY (ANIMATED HIGHLIGHT)
 
-## 🔥 1000+ PROBLEMS SOLVED
+## 🔥 1000+ Problems Solved
 
-Consistent problem solver with strong algorithmic thinking.
+Consistent algorithmic problem solver focused on optimization and clarity.
 
-* 1000+ problems solved across **LeetCode**
+* 1000+ problems solved across LeetCode
 * Strong in:
 
   * Dynamic Programming
-  * Graph Theory
-  * Trees & Recursion
+  * Graphs
+  * Trees
   * Greedy Algorithms
-  * Binary Search
   * Backtracking
+  * Binary Search
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/710723243115?theme=dark&font=Fira%20Code&ext=heatmap"/>
@@ -86,29 +69,31 @@ Consistent problem solver with strong algorithmic thinking.
 
 # 🧱 WHAT I BUILD
 
-### 🌐 Scalable Applications
+### 🌐 Scalable Web Apps
 
-Production-ready full-stack systems with clean architecture.
+Production-ready full-stack systems.
 
 ### 🤖 Intelligent Systems
 
 AI-powered tools and automation workflows.
 
-### ⚙️ Developer Utilities
+### ⚙️ Developer Tools
 
-Tools that improve productivity and engineering efficiency.
+Utilities for productivity and engineering efficiency.
 
 ---
 
-# 🛠 TECH STACK (VISUAL)
+# 🛠 TECH STACK (ICON ANIMATION STYLE)
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,linux" />
+
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS (DYNAMIC CARDS)
 
 <p align="center">
 
@@ -120,10 +105,18 @@ Tools that improve productivity and engineering efficiency.
 
 ---
 
-# 🔥 ACTIVITY GRAPH
+# 🔥 ACTIVITY GRAPH (LIVE LOOK)
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryavarathan&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE ANIMATION
+
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -135,24 +128,24 @@ Tools that improve productivity and engineering efficiency.
 * Build systems, not features
 * Optimize for clarity
 * Think long-term architecture
-* Consistency builds mastery
+* Stay consistent, keep improving
 
 ---
 
 # 🌍 CONNECT WITH ME
 
+* 💻 GitHub → https://github.com/suryavarathan
 * 💼 LinkedIn → https://www.linkedin.com/mwlite/profile/in/surya-v-47b61a383
 * 🧠 LeetCode → https://leetcode.com/u/710723243115/
-* 💻 GitHub → https://github.com/suryavarathan
 
 ---
 
 <div align="center">
 
-### ⚡ Built with discipline. Designed for impact. Driven by curiosity.
+### ⚡ Built with discipline, consistency, and passion for engineering.
 
 </div>
 
-<!-- 🌊 FOOTER -->
+<!-- 🌊 FOOTER ANIMATION -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=140&section=footer"/>
